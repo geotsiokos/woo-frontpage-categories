@@ -1,0 +1,1 @@
+# woo-frontpage-categories
